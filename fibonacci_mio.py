@@ -9,8 +9,7 @@ while contador < secuencia:
     n1 = n2
     n2 = contador
     contador = n1 + n2
-
-print(contador)
+    print(contador)
 
 '''
 # la secuencia de Fibonacci parte de dos valores iniciales que dan pie al comienzo de la secuencia: 0 y 1:
