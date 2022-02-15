@@ -4,7 +4,6 @@ n2 = 1
 contador = 0
 print('Secuencia de Fibonacci hasta:', secuencia)
 print(n1)
-print(n2)
 while contador < secuencia:
     n1 = n2
     n2 = contador
